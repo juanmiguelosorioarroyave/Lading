@@ -14,6 +14,14 @@ h1 {
   margin-bottom: 1.0em;
 
 }
+
+h3 {
+  font-size: 31px;
+  display: flex;
+  width: 820px;
+  margin-bottom: 1.0em;
+}
+
 html {
   font-size: 10px;
 }
